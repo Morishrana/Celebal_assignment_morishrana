@@ -1,0 +1,6 @@
+.venv/
+.agents/
+__pycache__/
+*.pyc
+uploaded_document.pdf
+week7_assignment/install.log
